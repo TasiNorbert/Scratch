@@ -1,5 +1,5 @@
-## Scratch
-# Házi feladat
+# Scratch
+## Házi feladat
 
 A zöld zászlóra kattintva kezd el futni a projekt.
 A projekt első részében látható ahogy egy medve téli álomra vonul barlangjába. 
