@@ -7,3 +7,5 @@ Majd a második részben látható az ébredés utáni első vadászat.
 
 A projektben az állatok mozgásához egy ismétlő ciklust használtam, mely 10 lépésben változtatja a koordinátákat, így eljuttatja a figurát a kívánt helyre.
 Továbbá két alkalommal használtam a Scratch színérzékelő opcióját, mely segítségével sikerült "eltüntetni" a medvét a barlang bejáratánál, illetve a nyulat amikor a medve megérintette. 
+
+/home/hallgato/Képek/Képernyőkép erről: 2020-03-04 10-17-11.png
